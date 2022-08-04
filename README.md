@@ -6,18 +6,17 @@ Prediction of the probability of the client’s default
 
 | Name | Information | 
 |----------------|----------------|
-| crypto_clusterization.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
+| Credit_scoring.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
 | X_train.csv | Training dataset (x) |
 | y_train.csv | Training dataset (y)] |
 | X_test.csv | Test dataset (x) |
 | y_test_sample.csv | Test dataset (y) |
-| stocks.py | Functions |
+| credit_score.py | Functions |
 | requirements.txt | Libraries |
 
 
 ## Description
 
-Candlestick visualization examples:
 
 ###                                                                   Dependencies
 
