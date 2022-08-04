@@ -7,7 +7,10 @@ Prediction of the probability of the client’s default
 | Name | Information | 
 |----------------|----------------|
 | crypto_clusterization.ipynb | Notebook (formating .ipynb) with a detailed description of the project |
-| stocks_data.html | Data with Top Cryptos by Market Cap (by 09/07/2022) [1] |
+| X_train.csv | Training dataset (x) |
+| y_train.csv | Training dataset (y)] |
+| X_test.csv | Test dataset (x) |
+| y_test_sample.csv | Test dataset (y) |
 | stocks.py | Functions |
 | requirements.txt | Libraries |
 
