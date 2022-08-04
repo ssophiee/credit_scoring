@@ -15,7 +15,8 @@
 
 ## Description
 
-Prediction of the client’s default \
+**Task:** Prediction of the client’s default 
+
 Models used in this project:
 - Logistic Regression
 - KNN
