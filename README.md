@@ -17,6 +17,14 @@ Prediction of the probability of the client’s default
 
 ## Description
 
+Prediction of the client’s default
+Models used in this project:
+- Logistic Regression
+- KNN
+- Decision Tree
+- Random Forest
+- CatBoost
+- Ensemble Method (catboost, logreg, knn) - best result
 
 ###                                                                   Dependencies
 
