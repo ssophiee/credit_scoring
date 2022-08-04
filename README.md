@@ -1,6 +1,4 @@
 ## Credit Scoring
-Prediction of the probability of the client’s default 
-
 
 ## Information 
 
@@ -24,7 +22,7 @@ Models used in this project:
 - Decision Tree
 - Random Forest
 - CatBoost
-- Ensemble Method (catboost, logreg, knn) - best result
+- Ensemble Method (catboost, logreg, knn) - the best result
 
 ###                                                                   Dependencies
 
